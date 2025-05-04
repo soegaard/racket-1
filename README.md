@@ -17,7 +17,7 @@ The Racket code in this repo is meant to conform with the conventions set forth 
 
 Try to avoid external dependencies.
 
-## Suuport
+## Support
 
 For support with Racket in Exercism, please visit [the Racket subcategory](https://forum.exercism.org/c/programming/racket/) on the official [Exercism forum](https://forum.exercism.org).
 
